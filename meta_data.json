@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "technical",
+        "2": "productivity"
+    },
+    "demo_page": "https://minimum-studio.bubbleapps.io/person-name",
+    "description": "This plugin makes it easy to work with people's names. Simply provide a first and last name and get a bunch of common name formats to pick from.\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1622497993275x714410258732777900/nameformatter.svg",
+    "license": "open_source",
+    "link": "https://minimum.studio/plugins",
+    "name": "Name Formatter",
+    "plugin_instructions": "Check out the full plugin documentation at https://www.notion.so/minimumstudio/Person-Name-258699df1ca14e589ae97b76afc47876",
+    "sa_node_version": 18
+}
